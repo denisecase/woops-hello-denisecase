@@ -272,3 +272,8 @@ java -jar build/libs/woops-hello-denisecase.jar
 jar vtf build/libs/woops-hello-denisecase.jar
 jar vxf build/libs/woops-hello-denisecase.jar
 ```
+
+## Participates In
+
+- Collaborative App [woops-hello](https://github.com/denisecase/woops-hello)
+
