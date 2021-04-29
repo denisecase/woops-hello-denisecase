@@ -1,8 +1,8 @@
 # woops-hello-denisecase
 
-> Java helps 'encapsulate' code. It makes it easy to create standalone, shareable apps like this one.
+> A simple Java app that can run standalone or be included in a larger collaborative app
 
-> WOOPS = (Amazing) World of Object-Oriented Programming
+---
 
 ## Quickstart
 
