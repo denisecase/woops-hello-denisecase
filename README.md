@@ -2,6 +2,8 @@
 
 > Java helps 'encapsulate' code. It makes it easy to create standalone, shareable apps like this one.
 
+> WOOPS = (Amazing) World of Object-Oriented Programming
+
 ## Quickstart
 
 Create the jar for sharing (see [build/libs](build/libs)) and run the app standalone.
